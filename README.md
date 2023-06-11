@@ -15,6 +15,7 @@ https://www.ohmsha.co.jp/book/9784274226069/
 ## 本書の詳細な索引
 
 学習の助けとして、詳細な索引を公開しています。
+なんか撃ってみたい 鳥とか
 
 - [sakuin_top.html](https://c-programming-ohm.github.io/1st-step/sakuin_top.html)：リストなどをクリックして展開する形
 - [sakuin_top_all.html](https://c-programming-ohm.github.io/1st-step/sakuin_top_all.html)：すべての情報を表示する形式
